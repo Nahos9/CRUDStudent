@@ -109,15 +109,8 @@ body, html{
 /* Section 1 */
 
 .sect1{
-    display: flex;
-    justify-content: space-between;
-    border: 2px solid brown;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px solid tomato;
 }
-.sect1 .droite{
-   
-}
-.sect1 .gauche{
-    border: 2px solid rgb(130, 42, 165);
-    height: 700px;
-    width: 25%;
-}
+

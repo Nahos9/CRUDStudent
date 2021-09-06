@@ -15,9 +15,6 @@
         <div class="droite">
             <h3>Mots du directeur</h3>
         </div>
-        <div class="gauche">
-            <h3>Voir plus</h3>
-        </div>
     </section>
     <!-- @include('footer') -->
     <script src="{{asset('js/index.js')}}"></script>
